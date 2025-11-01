@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "parchment-bg",
+      "description": "A dark, elegant background with subtle gold patterns.",
+      "imageUrl": "https://images.unsplash.com/photo-1533122250115-613203a07d3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkYXJrJTIwZmxvcmFsJTIwYmFja2dyb3VuZHxlbnwwfHx8fDE3NjE3NDU3Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dark floral background"
+    },
+    {
+      "id": "gallery-1",
+      "description": "A happy couple in formal Indian wedding attire, with a dark, elegant background.",
+      "imageUrl": "https://images.unsplash.com/photo-1621801306185-8c0ccf9c8eb8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aW5kaWFuJTIwY291cGxlfGVufDB8fHx8MTc2MTc0NTc3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "formal indian couple"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Close-up of intricate henna designs on a bride's hands with gold jewelry.",
+      "imageUrl": "https://images.unsplash.com/photo-1673073180049-9ef7846f28dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3ZWRkaW5nJTIwaGVubmF8ZW58MHx8fHwxNzYxNzQ1Nzc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gold henna"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Elegant and formal wedding decorations with gold and deep blue tones.",
+      "imageUrl": "https://images.unsplash.com/photo-1616213797613-2a62d4e76e5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnb2xkJTIwd2VkZGluZyUyMGRlY29yfGVufDB8fHx8MTc2MTc0NTc3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gold wedding decor"
+    },
+    {
+      "id": "gallery-4",
+      "description": "A candid moment of laughter between the couple, in a formal setting.",
+      "imageUrl": "https://images.unsplash.com/photo-1555689070-2d15336749b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxoYXBweSUyMGNvdXBsZXxlbnwwfHx8fDE3NjE3MTUyMzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "happy formal couple"
+    },
+    {
+      "id": "gallery-5",
+      "description": "A traditional Indian wedding ceremony with elegant and formal elements.",
+      "imageUrl": "https://images.unsplash.com/photo-1680491026542-a99730a0e235?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxpbmRpYW4lMjBjZXJlbW9ueXxlbnwwfHx8fDE3NjE3NDU3Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "elegant indian ceremony"
+    },
+    {
+      "id": "gallery-6",
+      "description": "Guests dancing at a formal wedding reception with elegant lighting.",
+      "imageUrl": "https://images.unsplash.com/photo-1639331526308-62dfe0df6622?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d2VkZGluZyUyMGRhbmNpbmd8ZW58MHx8fHwxNzYxNzQ1Nzc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "formal wedding dancing"
+    }
+  ]
+}
