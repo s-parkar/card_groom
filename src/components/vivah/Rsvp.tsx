@@ -42,7 +42,7 @@ export default function Rsvp({ addBlessing }: RsvpFormProps) {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
 
-    if (SCRIPT_URL === 'YOUR_GOOGLE_APPS_SCRIPT_URL_HERE') {
+    if (SCRIPT_URL === 'xyz') {
         toast({
             variant: 'destructive',
             title: 'Configuration Needed',
@@ -106,7 +106,7 @@ export default function Rsvp({ addBlessing }: RsvpFormProps) {
             <h2 className="font-headline text-7xl sm:text-8xl mb-4 text-primary text-shadow-gold">RSVP</h2>
             <p className="px-4 text-base text-muted-foreground">
                 Your presence is the greatest gift, but a response by November 15th would be deeply appreciated.
-                <br /> For queries, contact: +91 9833190079, 8546801997
+                <br /> For queries, contact: +91 9450880247 , 9990054390 
           </p>
         </div>
         <form onSubmit={handleSubmit} className="mt-8">
